@@ -3,7 +3,7 @@
 [//]: # (Image References)
 [vehicle]: ./output_images/vehicle.png
 [non_vehicle]: ./output_images/non-vehicle.png
-[hog]: ./output_images/hog.png
+[hog]: ./output_images/hog_feature_YUV.png
 [window_search]: ./output_images/window_search_vis.png
 [heatmap]: ./output_images/heat_map_vis.png
 [label]: ./output_images/label_vis.png
